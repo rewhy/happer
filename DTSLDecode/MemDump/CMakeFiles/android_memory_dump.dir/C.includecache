@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhouhao/juno_backup/DS5_workspace/DTSLRepackage/MemDump/ptrace_dump.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdarg.h
+-
+sys/ptrace.h
+-
+

@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "libvex_basictypes.h": "c",
+        "transformopcode2vex.h": "c",
+        "mutex": "c",
+        "system_error": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "vector": "c"
+    }
+}

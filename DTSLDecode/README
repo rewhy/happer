@@ -1,0 +1,6 @@
+1. objdump (pc)
+/home/zhouhao/Android/android-ndk-r17b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin$ ./aarch64-linux-android-objdump -D
+/home/zhouhao/Android/android-ndk-r17b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin$ ./aarch64-linux-android-objdump -d
+/home/zhouhao/Android/android-ndk-r17b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin$ ./aarch64-linux-android-objdump -h
+
+2. oatdump (juno)
