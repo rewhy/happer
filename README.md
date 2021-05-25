@@ -6,3 +6,5 @@ The source code of Happer has been released, and we will provide the instruction
 DTSLDecode: The code for decoding ETM stream.
 
 DTSLRepackage: The code for customizing DS-5.
+
+ds5-scripts: The scripts for tracking behaviors and unpacking apps.
