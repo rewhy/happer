@@ -8,3 +8,7 @@ DTSLDecode: The code for decoding ETM stream.
 DTSLRepackage: The code for customizing DS-5.
 
 ds5-scripts: The scripts for tracking behaviors and unpacking apps.
+
+smali: The code for the revised smali/baksmali for unpacking apps.
+
+soot
