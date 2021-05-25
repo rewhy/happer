@@ -11,4 +11,4 @@ ds5-scripts: The scripts for tracking behaviors and unpacking apps.
 
 smali: The code for the revised smali/baksmali for unpacking apps.
 
-soot
+NOTE: heros, jasmin, soot are dependent projects of DTSLRepackage.
